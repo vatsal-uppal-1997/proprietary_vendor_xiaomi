@@ -1,4 +1,5 @@
 PRODUCT_COPY_FILES += \
+    vendor/xiaomi/cancro/proprietary/lib/hw/camera.msm8974.so:system/lib/hw/camera.msm8974.so \
     vendor/xiaomi/cancro/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/xiaomi/cancro/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/xiaomi/cancro/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
@@ -424,6 +425,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
+    vendor/xiaomi/cancro/proprietary/bin/rild:system/bin/rild \
+    vendor/xiaomi/cancro/proprietary/lib/libril.so:system/lib/libril.so \
+    vendor/xiaomi/cancro/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
+    vendor/xiaomi/cancro/proprietary/lib/librilutils.so:system/lib/librilutils.so \
     vendor/xiaomi/cancro/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/xiaomi/cancro/proprietary/bin/qosmgr:system/bin/qosmgr \
     vendor/xiaomi/cancro/proprietary/bin/imsdatadaemon:system/bin/imsdatadaemon \
@@ -444,10 +449,5 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/usr/keylayout/atmel-maxtouch.kl:system/usr/keylayout/atmel-maxtouch.kl \
     vendor/xiaomi/cancro/proprietary/usr/keylayout/gpio-keys.kl:system/usr/keylayout/gpio-keys.kl \
     vendor/xiaomi/cancro/proprietary/usr/keylayout/msm8974-taiko-mtp-snd-card_Button_Jack.kl:system/usr/keylayout/msm8974-taiko-mtp-snd-card_Button_Jack.kl \
-    vendor/xiaomi/cancro/proprietary/usr/keylayout/synaptics_rmi4_i2c.kl:system/usr/keylayout/synaptics_rmi4_i2c.kl
-
-#    vendor/xiaomi/cancro/proprietary/bin/rild:system/bin/rild \
-#    vendor/xiaomi/cancro/proprietary/lib/libril.so:system/lib/libril.so \
-#    vendor/xiaomi/cancro/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
-#    vendor/xiaomi/cancro/proprietary/lib/librilutils.so:system/lib/librilutils.so \
+    vendor/xiaomi/cancro/proprietary/usr/keylayout/synaptics_rmi4_i2c.kl:system/usr/keylayout/synaptics_rmi4_i2c.kl 
 
