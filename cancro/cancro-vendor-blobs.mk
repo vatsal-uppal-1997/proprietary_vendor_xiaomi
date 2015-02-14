@@ -390,8 +390,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/xiaomi/cancro/proprietary/bin/thermald:system/bin/thermald \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
-    vendor/xiaomi/cancro/proprietary/bin/btnvtool:system/bin/btnvtool \
-    vendor/xiaomi/cancro/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
     vendor/xiaomi/cancro/proprietary/bin/hvdcp:system/bin/hvdcp \
     vendor/xiaomi/cancro/proprietary/bin/charger_monitor:system/bin/charger_monitor \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libmm-hdcpmgr.so:system/vendor/lib/libmm-hdcpmgr.so \
