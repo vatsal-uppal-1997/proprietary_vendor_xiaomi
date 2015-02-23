@@ -264,6 +264,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libmmcamera2_stats_modules.so:system/vendor/lib/libmmcamera2_stats_modules.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libmmcamera2_vpe_module.so:system/vendor/lib/libmmcamera2_vpe_module.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libmmcamera2_wnr_module.so:system/vendor/lib/libmmcamera2_wnr_module.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libmm-omxcore.so:system/vendor/lib/libmm-omxcore.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libmm-qcamera.so:system/vendor/lib/libmm-qcamera.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libmmipl.so:system/vendor/lib/libmmipl.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/liboemcamera.so:system/vendor/lib/liboemcamera.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/liboptizoom.so:system/vendor/lib/liboptizoom.so \
@@ -314,6 +316,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libquipc_os_api.so:system/vendor/lib/libquipc_os_api.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libquipc_ulp_adapter.so:system/vendor/lib/libquipc_ulp_adapter.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libulp2.so:system/vendor/lib/libulp2.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libcommonpawrapper.so:system/vendor/lib/libcommonpawrapper.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/egl/libq3dtools_adreno.so:system/vendor/lib/egl/libq3dtools_adreno.so \
@@ -347,6 +350,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libOmxEvrcDec.so:system/vendor/lib/libOmxEvrcDec.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libOmxQcelp13Dec.so:system/vendor/lib/libOmxQcelp13Dec.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libOmxWmaDec.so:system/vendor/lib/libOmxWmaDec.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libOmxVdecHevc.so:system/vendor/lib/libOmxVdecHevc.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libSHIMDivxDrm.so:system/vendor/lib/libSHIMDivxDrm.so \
     vendor/xiaomi/cancro/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libdisp-aba.so:system/vendor/lib/libdisp-aba.so \
