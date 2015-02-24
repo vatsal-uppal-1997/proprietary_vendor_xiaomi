@@ -130,11 +130,13 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_ov2720_zsl.so:system/vendor/lib/libchromatix_ov2720_zsl.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_ov4688_common.so:system/vendor/lib/libchromatix_ov4688_common.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_ov4688_default_video.so:system/vendor/lib/libchromatix_ov4688_default_video.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_ov4688_hfr.so:system/vendor/lib/libchromatix_ov4688_hfr.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_ov4688_liveshot.so:system/vendor/lib/libchromatix_ov4688_liveshot.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_ov4688_preview.so:system/vendor/lib/libchromatix_ov4688_preview.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_ov4688_zsl.so:system/vendor/lib/libchromatix_ov4688_zsl.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_ov4689_common.so:system/vendor/lib/libchromatix_ov4689_common.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_ov4689_default_video.so:system/vendor/lib/libchromatix_ov4689_default_video.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_ov4689_hfr.so:system/vendor/lib/libchromatix_ov4689_hfr.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_ov4689_liveshot.so:system/vendor/lib/libchromatix_ov4689_liveshot.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_ov4689_preview.so:system/vendor/lib/libchromatix_ov4689_preview.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_ov4689_zsl.so:system/vendor/lib/libchromatix_ov4689_zsl.so \
@@ -187,12 +189,15 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_SKUAA_ST_gc0339_preview.so:system/vendor/lib/libchromatix_SKUAA_ST_gc0339_preview.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_skuab_shinetech_gc0339_common.so:system/vendor/lib/libchromatix_skuab_shinetech_gc0339_common.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_skuab_shinetech_gc0339_default_video.so:system/vendor/lib/libchromatix_skuab_shinetech_gc0339_default_video.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_skuab_shinetech_gc0339_liveshot.so:system/vendor/lib/libchromatix_skuab_shinetech_gc0339_liveshot.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_skuab_shinetech_gc0339_preview.so:system/vendor/lib/libchromatix_skuab_shinetech_gc0339_preview.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_skuab_shinetech_gc0339_snapshot.so:system/vendor/lib/libchromatix_skuab_shinetech_gc0339_snapshot.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_skuab_shinetech_gc0339_zsl.so:system/vendor/lib/libchromatix_skuab_shinetech_gc0339_zsl.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_common.so:system/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_common.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_default_video.so:system/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_default_video.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_hfr_120fps.so:system/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_hfr_120fps.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_hfr_60fps.so:system/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_hfr_60fps.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_hfr_90fps.so:system/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_hfr_90fps.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_liveshot.so:system/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_liveshot.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_preview.so:system/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_preview.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_snapshot.so:system/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_snapshot.so \
