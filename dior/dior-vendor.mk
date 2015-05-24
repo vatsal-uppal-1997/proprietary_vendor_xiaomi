@@ -16,7 +16,14 @@
 
 # Prebuilt vendor/libs needed for compilation
 PRODUCT_PACKAGES += \
+    com.qualcomm.location \
+    libHevcSwDecoder \
+    libmm-abl \
+    libtime_genoff \
+    libTimeService \
+    TimeService \
     libqminvapi \
-    libtime_genoff
+    qcrilmsgtunnel \
+    shutdownlistener
 
 $(call inherit-product, vendor/xiaomi/dior/dior-vendor-blobs.mk)
