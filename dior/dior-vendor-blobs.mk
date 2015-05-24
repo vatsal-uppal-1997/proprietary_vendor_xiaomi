@@ -382,5 +382,35 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/dior/proprietary/etc/firmware/wcnss.mdt:system/etc/firmware/wcnss.mdt \
     vendor/xiaomi/dior/proprietary/etc/firmware/Signedrompatch_v20.bin:system/etc/firmware/Signedrompatch_v20.bin \
     vendor/xiaomi/dior/proprietary/etc/firmware/Signedrompatch_v21.bin:system/etc/firmware/Signedrompatch_v21.bin \
-    vendor/xiaomi/dior/proprietary/etc/firmware/Signedrompatch_v24.bin:system/etc/firmware/Signedrompatch_v24.bin
+    vendor/xiaomi/dior/proprietary/etc/firmware/Signedrompatch_v24.bin:system/etc/firmware/Signedrompatch_v24.bin \
+    vendor/xiaomi/dior/proprietary/bin/mmi:system/bin/mmi \
+    vendor/xiaomi/dior/proprietary/vendor/lib/libmmi.so:system/vendor/lib/libmmi.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/libmmiipstreammmihttp.so:system/vendor/lib/libmmiipstreammmihttp.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/libmmipl.so:system/vendor/lib/libmmipl.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/libmmipstreamaal.so:system/vendor/lib/libmmipstreamaal.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/libmmipstreamnetwork.so:system/vendor/lib/libmmipstreamnetwork.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/libmmipstreamsourcehttp.so:system/vendor/lib/libmmipstreamsourcehttp.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/libmmipstreamutils.so:system/vendor/lib/libmmipstreamutils.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/mmi_audio.so:system/vendor/lib/mmi_audio.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/mmi_battery.so:system/vendor/lib/mmi_battery.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/mmi_bt.so:system/vendor/lib/mmi_bt.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/mmi_camera.so:system/vendor/lib/mmi_camera.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/mmi_flashlight.so:system/vendor/lib/mmi_flashlight.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/mmi_fm.so:system/vendor/lib/mmi_fm.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/mmi_gps_garden.so:system/vendor/lib/mmi_gps_garden.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/mmi_gsensor.so:system/vendor/lib/mmi_gsensor.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/mmi_gyroscope.so:system/vendor/lib/mmi_gyroscope.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/mmi_keypadbacklight.so:system/vendor/lib/mmi_keypadbacklight.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/mmi_lcd.so:system/vendor/lib/mmi_lcd.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/mmi_led.so:system/vendor/lib/mmi_led.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/mmi_lsensor.so:system/vendor/lib/mmi_lsensor.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/mmi_msensor.so:system/vendor/lib/mmi_msensor.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/mmi_psensor.so:system/vendor/lib/mmi_psensor.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/mmi_sdcard.so:system/vendor/lib/mmi_sdcard.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/mmi_sim.so:system/vendor/lib/mmi_sim.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/mmi_touch.so:system/vendor/lib/mmi_touch.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/mmi_touchpanel.so:system/vendor/lib/mmi_touchpanel.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/mmi_vibrator.so:system/vendor/lib/mmi_vibrator.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/mmi_volume.so:system/vendor/lib/mmi_volume.so \
+    vendor/xiaomi/dior/proprietary/vendor/lib/mmi_wifi.so:system/vendor/lib/mmi_wifi.so
 
