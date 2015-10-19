@@ -21,7 +21,6 @@ PRODUCT_PACKAGES += \
 # Prebuilt vendor/libs needed for compilation
 PRODUCT_PACKAGES += \
     libqminvapi \
-    libtime_genoff \
-    libTimeService
+    libtime_genoff
 
 $(call inherit-product, vendor/xiaomi/dior/dior-vendor-blobs.mk)
